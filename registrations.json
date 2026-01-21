@@ -1,0 +1,51 @@
+[
+  {
+    "client_name": "API Client",
+    "email": "client@example.com",
+    "purpose": "Stock market data access",
+    "api_key": "j319M30o0d11nv2aOz3vxBmxgcC3BHeK5sec4oZ3MyI",
+    "registered_at": "2026-01-08T12:20:58.550410"
+  },
+  {
+    "client_name": "Test Client",
+    "email": "test@example.com",
+    "purpose": "Server testing",
+    "api_key": "542MDkwJzSRgRlR9uMzRarZvb86l8U6v-Cwu6ugF0Yg",
+    "registered_at": "2026-01-08T17:43:19.156605"
+  },
+  {
+    "client_name": "Live Test",
+    "email": "test@test.com",
+    "purpose": "Demonstration",
+    "api_key": "72crNi8Ez64gjK9JtjyfDSnkM9Tcpx2E4RG-QKc6nok",
+    "registered_at": "2026-01-08T17:57:22.630464"
+  },
+  {
+    "client_name": "Browser Test Client",
+    "email": "browser-test@example.com",
+    "purpose": "Testing API in browser",
+    "api_key": "b5KDvhKTrDM40bvipslyOGqJcgCOQ2WYbqRXTTEbVGU",
+    "registered_at": "2026-01-08T17:58:53.568912"
+  },
+  {
+    "client_name": "Test Client",
+    "email": "test@example.com",
+    "purpose": "Testing",
+    "api_key": "PRV83c7SjeKEeAgiMy7gZQryyAEtz2yw7-H50mI_Abo",
+    "registered_at": "2026-01-20T19:40:50.053921"
+  },
+  {
+    "client_name": "Test Client",
+    "email": "test@example.com",
+    "purpose": "Testing",
+    "api_key": "FhJD7ntl-pGbxRmrq28_6IPjuQmGU0uPh1amZCeJa9c",
+    "registered_at": "2026-01-20T19:42:16.067523"
+  },
+  {
+    "client_name": "Test Client",
+    "email": "test@example.com",
+    "purpose": "Server testing",
+    "api_key": "rT76hSrdzyR7xxJVBOXY1yyfQ_fQoF-zYTyE1roie-A",
+    "registered_at": "2026-01-20T19:42:20.630337"
+  }
+]
